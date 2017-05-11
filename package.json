@@ -1,0 +1,15 @@
+{
+  "name": "Day3",
+  "version": "1.0.0",
+  "description": "Reverse Strings",
+  "main": " apps/reverseStrings.js",
+  "scripts": {
+    "test": "jasmine spec/testreverseStrings.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
